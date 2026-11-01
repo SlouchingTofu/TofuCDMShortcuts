@@ -1,4 +1,4 @@
-## Interface: 120105
+## Interface: 120107
 ## Title: TofuCDMShorcuts
 ## Notes: Adds a slash command to get to the Cooldown Manager settings
 ## Version: 1.0.0
